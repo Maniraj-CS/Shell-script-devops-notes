@@ -88,7 +88,7 @@ Create ZIP backups of files and directories using Bash, with automatic rotation 
 - Error handling and exit status
 - Backup rotation and old file deletion
 
-<a href="./Projects/log_and_rotation.md">
+<a href="./Projects/Backup_and_automation.md">
   <img src="https://img.shields.io/badge/View_Project-9333EA?style=for-the-badge&logo=linux&logoColor=white" alt="View Backup Project"/>
 </a>
 
