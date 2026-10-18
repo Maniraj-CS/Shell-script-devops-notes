@@ -39,18 +39,18 @@ This repository contains my Shell Scripting notes, examples, and projects for le
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ AWS EC2 Automation
+### 💻 Bash Syntax
 
-Automate EC2 instance creation using Bash and AWS CLI.
+Learn the basic building blocks of shell scripting.
 
 **Topics covered:**
-- AWS CLI
-- Bash functions
-- Error handling
-- Cloud automation
+- Variables and operators
+- Conditions and loops
+- Functions and arrays
+- Command-line arguments
 
-<a href="./Projects/ec2_creating.md">
-  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white" alt="View EC2 Project"/>
+<a href="./All_Syntex.md">
+  <img src="https://img.shields.io/badge/Explore_Syntax-0891B2?style=for-the-badge&logo=gnubash&logoColor=white" alt="Explore Bash Syntax"/>
 </a>
 
 </td>
@@ -92,18 +92,18 @@ Learn how to manage log files using shell scripts.
 </td>
 <td width="50%" valign="top">
 
-### 💻 Bash Syntax
+### ☁️ AWS EC2 Automation
 
-Learn the basic building blocks of shell scripting.
+Automate EC2 instance creation using Bash and AWS CLI.
 
 **Topics covered:**
-- Variables and operators
-- Conditions and loops
-- Functions and arrays
-- Command-line arguments
+- AWS CLI
+- Bash functions
+- Error handling
+- Cloud automation
 
-<a href="./All_Syntex.md">
-  <img src="https://img.shields.io/badge/Explore_Syntax-0891B2?style=for-the-badge&logo=gnubash&logoColor=white" alt="Explore Bash Syntax"/>
+<a href="./Projects/ec2_creating.md">
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white" alt="View EC2 Project"/>
 </a>
 
 </td>
