@@ -75,18 +75,21 @@ Use Makefile targets to run repeated commands easily.
 <tr>
 <td width="50%" valign="top">
 
-### 📋 Log Management
+### 📦 Backup Automation
 
-Learn how to manage log files using shell scripts.
+Create ZIP backups of files and directories using Bash, with automatic rotation to keep the 5 newest backups.
 
 **Topics covered:**
-- Log files
-- File handling
-- Log rotation
-- Linux automation
+
+- Bash functions and command-line arguments
+- ZIP backup creation
+- Timestamps and file handling
+- Bash arrays and loops
+- Error handling and exit status
+- Backup rotation and old file deletion
 
 <a href="./Projects/log_and_rotation.md">
-  <img src="https://img.shields.io/badge/View_Project-9333EA?style=for-the-badge&logo=linux&logoColor=white" alt="View Log Project"/>
+  <img src="https://img.shields.io/badge/View_Project-9333EA?style=for-the-badge&logo=linux&logoColor=white" alt="View Backup Project"/>
 </a>
 
 </td>
