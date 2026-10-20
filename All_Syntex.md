@@ -873,7 +873,7 @@ username="Maniraj"
 ---
 
 <p align="center">
-  <a href="../Readme.md">
+  <a href="./Readme.md">
     <img src="https://img.shields.io/badge/⬅_Back-blue?style=for-the-badge" alt="Back">
   </a>
 </p>
