@@ -739,10 +739,7 @@ Makefile helps us run repeated commands using short, easy-to-remember targets. I
 ---
 
 <p align="center">
-  <a href="./ec2_creating.md">
+  <a href="../Readme.md">
     <img src="https://img.shields.io/badge/⬅_Back-blue?style=for-the-badge" alt="Back">
-  </a>
-  <a href="./log_and_rotation.md">
-    <img src="https://img.shields.io/badge/Forward_➡-green?style=for-the-badge" alt="Forward">
   </a>
 </p>

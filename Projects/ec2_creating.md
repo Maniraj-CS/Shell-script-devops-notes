@@ -588,6 +588,7 @@ This is a useful beginner project for learning how DevOps scripts can automate c
 ---
 
 <p align="center">
-  <a href="../All_Syntex.md"><img src="https://img.shields.io/badge/⬅_Back-blue?style=for-the-badge" alt="Back"></a>
-  <a href="./makefile.md"><img src="https://img.shields.io/badge/Forward_➡-green?style=for-the-badge" alt="Forward"></a>
+  <a href="../Readme.md">
+    <img src="https://img.shields.io/badge/⬅_Back-blue?style=for-the-badge" alt="Back">
+  </a>
 </p>

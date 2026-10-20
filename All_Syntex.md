@@ -873,7 +873,8 @@ username="Maniraj"
 ---
 
 <p align="center">
-  <a href="../README.md"><img src="https://img.shields.io/badge/⬅_Back-blue?style=for-the-badge" alt="Back"></a>
-  <a href="./Projects/ec2_creating.md"><img src="https://img.shields.io/badge/Forward_➡-green?style=for-the-badge" alt="Forward"></a>
+  <a href="../Readme.md">
+    <img src="https://img.shields.io/badge/⬅_Back-blue?style=for-the-badge" alt="Back">
+  </a>
 </p>
 
