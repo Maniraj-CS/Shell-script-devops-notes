@@ -503,6 +503,11 @@ A `for` loop is useful when working with a list of values.
 for i in {1..5}; do
     echo "Iteration $i"
 done
+
+# here We can also use loop like C.
+for (( i = 0 ; i <= 10 ; ++i )); do
+    echo "Iteration $i"
+done
 ```
 
 **Output:**
